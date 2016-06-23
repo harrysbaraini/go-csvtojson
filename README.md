@@ -4,6 +4,8 @@
 
 You can clone/fork/whateveryouwant this repository, or simply download *csvtojson*.
 
+> Yeah, it is written in awesome Go! So, you can just "go get github.com/harrysbaraini/go-csvtojson"
+
 ## USAGE
 
 ```
