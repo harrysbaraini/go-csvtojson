@@ -2,6 +2,8 @@
 
 **csvtojson** is a simple command line program to convert CSV to JSON.
 
+You can clone/fork/whateveryouwant this repository, or simply download *csvtojson*.
+
 ## USAGE
 
 ```
